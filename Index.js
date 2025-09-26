@@ -1,1 +1,4 @@
 
+var a=10;
+
+document.getElementById ("name");
