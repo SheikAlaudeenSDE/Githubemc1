@@ -1,4 +1,8 @@
 
 var a=10;
 
-document.getElementById ("name");
+var selectName=document.getElementById ("name");
+
+selectName=a;
+
+
